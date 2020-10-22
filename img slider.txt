@@ -1,0 +1,5 @@
+ <li data-target=#slides data-slides-to="0"></li>
+              <li data-target=#slides data-slides-to="1"></li>
+              <li data-target=#slides data-slides-to="2"></li>
+              <li data-target=#slides data-slides-to="3"></li>
+              <li data-target=#slides data-slides-to="4"></li>
